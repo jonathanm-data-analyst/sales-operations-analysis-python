@@ -6,7 +6,7 @@ This project applies Python-based business analytics techniques to a multi-table
 Key components of the project include data cleaning, relational joins, exploratory data analysis, and visualization-driven insight generation using Python libraries such as pandas and matplotlib. The work emphasizes translating analytical findings into actionable business insights, reflecting real-world analytics workflows commonly used in industry.
 
  
-##Contributions
+#Contributions
 
 This project was completed as a collaborative group effort. Individual contributions are outlined below for transparency:
 
