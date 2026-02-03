@@ -19,4 +19,19 @@ Created and structured the mock datasets used in the project, including generati
 Hoang Nguyen:
 Led the analytical work, including exploratory data analysis, managed data access and storage, visualization development, and interpretation of results.
 
-How to Run
+# How to Run
+
+1. Clone this repository to your local machine:
+
+2. Navigate into project directory cd sales-operations-analysis-python
+
+3. Create and activate a virtual environment
+   python -m venv venv
+source venv/bin/activate      # macOS/Linux
+venv\Scripts\activate         # Windows
+
+4. Install required dependencies: pip install -r requirements.txt
+
+5. Launch Jupyter Notebook:
+
+6. Open notebook: Example_Store.ipynb
