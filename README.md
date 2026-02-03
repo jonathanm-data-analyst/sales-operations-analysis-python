@@ -5,11 +5,18 @@ This project applies Python-based business analytics techniques to a multi-table
 
 Key components of the project include data cleaning, relational joins, exploratory data analysis, and visualization-driven insight generation using Python libraries such as pandas and matplotlib. The work emphasizes translating analytical findings into actionable business insights, reflecting real-world analytics workflows commonly used in industry.
 
-My Contributions
+This was a Group Project and contributions are as follows 
+## Contributions
 
-Team Members and their contributions
-Uday Raval 
+This project was completed as a collaborative group effort. Individual contributions are outlined below for transparency:
 
-Hoang Nguyen
+Jonathan Morris:  
+Established the Google Drive and Google Colab environment, and implemented functionality for loading, editing, searching, modifying, and saving tabular data throughout the analysis workflow.
+
+Uday Raval:
+Created and structured the mock datasets used in the project, including generating the initial CSV files.
+
+Hoang Nguyen:
+Led the analytical work, including exploratory data analysis, managed data access and storage, visualization development, and interpretation of results.
 
 How to Run
